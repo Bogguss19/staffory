@@ -1,0 +1,17 @@
+.spacer {
+  flex: 1 1 auto;
+  
+}
+.mat-toolbar {
+  background-color: white;
+}
+
+#contact {
+  padding: 1px;
+  border: 1px solid #730621;
+  color: #730621;
+}
+
+a:hover{
+  color: #730621;
+}

@@ -1,0 +1,34 @@
+#handshake{
+    padding-left: 100px;
+    padding-bottom: 100px;
+}
+#african{
+    padding-left: 160px;
+    padding-bottom: 180px;
+    padding-top: 0px;
+}
+#office{
+    padding-right: 15px;
+    
+}
+#manager{
+
+    padding-right: 330px;
+    padding-bottom: 200px;
+}
+h1{
+   font-size: 50px;
+   line-height: 130%;
+   word-spacing: 30px;
+}
+strong{
+    color: #E75480;
+}
+
+#mission{
+    padding-right: 50px;
+}
+
+h2{
+    color: #730621;
+}

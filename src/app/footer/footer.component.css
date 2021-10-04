@@ -1,0 +1,61 @@
+div {
+  background-color: #282A2F;
+
+}
+img {
+  position: center;
+  padding: 30px;
+}
+
+.mat-divider {
+  color: white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+h5 {
+
+  color: white;
+  text-decoration: none;
+}
+
+#footer-copyright {
+  color: white;
+  text-decoration: none;
+  padding: 20px;
+  padding-left: 130px;
+
+}
+
+#footer-section{
+
+  margin-right: auto;
+  margin-left: auto;
+
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.hr-divider{
+  color: white;
+  width:80%;
+  margin: auto;
+}
+
+
+#footer-right{
+  color: white;
+  text-decoration: none;
+  float: right;
+  padding-right: 120px;
+
+  
+}

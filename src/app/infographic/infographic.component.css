@@ -1,0 +1,41 @@
+.btn-solid-lg:hover {
+  background-color: transparent;
+  color: #730621; /* needs to stay here because of the color property of a tag */
+  text-decoration: none;
+}
+.header .btn-solid-lg,
+.header .btn-outline-lg {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.header .btn-solid-lg {
+  margin-right: 0.5rem;
+}
+
+.btn-solid-lg {
+  display: inline-block;
+  padding: 1.625rem 2.625rem 1.625rem 2.625rem;
+  border: 1px solid #730621;
+  border-radius: 30px;
+  background-color: #730621;
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 0.875rem;
+  line-height: 0;
+  text-decoration: none;
+  transition: all 0.2s;
+}
+.btn-solid-lg1 {
+  display: inline-block;
+  padding: 1.625rem 2.625rem 1.625rem 2.625rem;
+  border: 1px solid #730621;
+  border-radius: 30px;
+  background-color: white;
+  color: #730621;
+  font-weight: 600;
+  font-size: 0.875rem;
+  line-height: 0;
+  text-decoration: none;
+  transition: all 0.2s;
+}
